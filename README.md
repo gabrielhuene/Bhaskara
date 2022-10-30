@@ -1,0 +1,2 @@
+# Bhaskara
+solução do exercício
